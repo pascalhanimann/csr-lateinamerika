@@ -15,6 +15,7 @@ gallery:
       alttext: MX 1
     - filename: BILD_KOLUMBIEN-15.jpg
       alttext: MX 1
+lang: de
 ---
 
 <!-- Text mit Sidestory rechts -->

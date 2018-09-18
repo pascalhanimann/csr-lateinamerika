@@ -12,7 +12,7 @@ altitude: 2640
 lang: de
 ref: kolumbien
 ---
-{% assign kolumbien = site.kolumbien | sort: "order" %}
+{% assign kolumbien = site.kolumbien | where: 'lang', page.lang | sort: "order" %}
 {% for ch in kolumbien %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}

@@ -4,6 +4,7 @@ subject: Menschenrechte
 title: «Kolumbien durchlebte ein trauriges Zeitalter»
 order: 2
 chapter_image: BILD_KOLUMBIEN-14.jpg
+lang: de
 ---
 <div class="content" markdown="1">
 Das Friedensabkommen zwischen dem kolumbianischen Staat und der Guerillaorganisation FARC bietet die Chance, dass die Gewalt in Kolumbien zurückgeht. Durch den Rückzug der FARC aus seinen ehemaligen Gebieten ist jedoch ein Machtvakuum entstanden, das es anderen bewaffneten Gruppierungen ermöglicht, sich auszubreiten. Der Staat war in den Territorien der FARC nicht präsent und füllt auch heute noch nicht die Rolle aus, die er übernehmen müsste. Dies lässt die Bevölkerung in einem schutzlosen und rechtsfreien Raum, in dem sie weiterhin unter Gewalt von paramilitärischen Organisationen, illegalen Gruppierungen und kriminellen Banden leidet.
