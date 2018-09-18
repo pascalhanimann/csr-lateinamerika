@@ -3,6 +3,8 @@ layout: page
 title: Impressum
 displaytitle: true
 order: 13
+lang: de
+ref: impressum
 ---
 <div class="content">
 <b>Konzeption, Gestaltung, Programmierung</b><br>

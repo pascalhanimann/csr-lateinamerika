@@ -17,6 +17,7 @@ gallery:
       alttext: MX 1
     - filename: BILD_PERU-23.jpg
       alttext: MX 1
+lang: de
 ---
 <!-- Text mit Sidestory rechts -->
 <div class="has-sidestories-right grid" markdown="1">

@@ -5,6 +5,8 @@ subtitle: «Das wirtschaftliche Umfeld Lateinamerikas ist nichts für Anfänger,
 group: navigation-09
 order: 9
 header-img: 20170717_142211.jpg
+lang: de
+ref: empfehlungen
 ---
 {% assign empfehlungen = site.empfehlungen | sort: "order" %}
 {% for ch in empfehlungen %}

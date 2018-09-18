@@ -4,6 +4,8 @@ title: Fazit
 group: navigation-08
 order: 8
 header-img: Mülleimer_Brasilien_1.jpg
+lang: de
+ref: einleitung
 ---
 <section class="box">
 <div class="content">
