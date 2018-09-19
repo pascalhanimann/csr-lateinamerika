@@ -12,7 +12,7 @@ altitude: 1172
 lang: de
 ref: brasilien
 ---
-{% assign brasilien = site.brasilien | sort: "order" %}
+{% assign brasilien = site.brasilien | where: 'lang', page.lang | sort: "order" %}
 {% for ch in brasilien %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}

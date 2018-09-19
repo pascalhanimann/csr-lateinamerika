@@ -3,6 +3,7 @@ subject: Peru
 title: 26. Juli - 12. August 2017
 #date:
 order: 2
+lang: de
 ---
 <div class="content" markdown="1">
 ## Mittwoch, 26. Juli 2017

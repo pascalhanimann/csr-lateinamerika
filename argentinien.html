@@ -12,7 +12,7 @@ altitude: 25
 lang: de
 ref: argentinien
 ---
-{% assign argentinien = site.argentinien | sort: "order" %}
+{% assign argentinien = site.argentinien | where: 'lang', page.lang | sort: "order" %}
 {% for ch in argentinien %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}

@@ -1,6 +1,7 @@
 ---
 country: Kolumbien
 subject: Umwelt
+subject_ref: umwelt
 title: «Umweltschutz zählt zu den größten Herausforderungen für Kolumbien»
 order: 3
 chapter_image: BILD_KOLUMBIEN-9.jpg

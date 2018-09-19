@@ -1,6 +1,7 @@
 ---
 country: Kolumbien
 subject: Derechos humanos
+subject_ref: menschenrechte
 title: «Colombia ha vivido una triste época»
 order: 2
 chapter_image: BILD_KOLUMBIEN-14.jpg

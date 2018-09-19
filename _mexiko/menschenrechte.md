@@ -1,6 +1,7 @@
 ---
 country: Mexiko
 subject: Menschenrechte
+subject_ref: menschenrechte
 title: «Bei der unternehmerischen Verantwortung darf es kein Copyright geben»
 #date:
 order: 2

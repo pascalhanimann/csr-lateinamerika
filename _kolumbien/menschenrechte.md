@@ -1,6 +1,7 @@
 ---
 country: Kolumbien
 subject: Menschenrechte
+subject_ref: menschenrechte
 title: «Kolumbien durchlebte ein trauriges Zeitalter»
 order: 2
 chapter_image: BILD_KOLUMBIEN-14.jpg

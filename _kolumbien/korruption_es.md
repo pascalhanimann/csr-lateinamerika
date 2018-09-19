@@ -1,6 +1,7 @@
 ---
 country: Kolumbien
 subject: Corrupción
+subject_ref: korruption
 title: «El sector informal es una tragedia para Colombia»
 order: 4
 chapter_image: BILD_KOLUMBIEN-6.jpg

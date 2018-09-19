@@ -3,6 +3,7 @@ subject: Brasilien
 title: 31. August - 6. Oktober 2017
 #date:
 order: 4
+lang: de
 ---
 <div class="content" markdown="1">
 ## Donnerstag, 31. August 2017

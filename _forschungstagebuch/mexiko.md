@@ -3,6 +3,7 @@ subject: Mexiko
 title: 3. - 25. Juli 2017
 #date:
 order: 1
+lang: de
 ---
 
 <div class="content" markdown="1">

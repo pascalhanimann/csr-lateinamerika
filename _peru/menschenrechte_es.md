@@ -1,6 +1,7 @@
 ---
 country: Peru
 subject: Derechos humanos
+subject_ref: menschenrechte
 title: «En Perú no hay una discusión seria sobre derechos humanos»
 order: 2
 chapter_image: BILD_PERU-16.jpg

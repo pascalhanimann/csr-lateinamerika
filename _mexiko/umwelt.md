@@ -1,6 +1,7 @@
 ---
 country: Mexiko
 subject: Umwelt
+subject_ref: umwelt
 title: «Langfristig betrachtet wird das Günstige teuer»
 #date:
 order: 3

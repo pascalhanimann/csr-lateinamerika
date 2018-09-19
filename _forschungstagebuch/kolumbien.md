@@ -3,6 +3,7 @@ subject: Kolumbien
 title: 13. - 30. August 2017
 #date:
 order: 3
+lang: de
 ---
 <div class="content" markdown="1">
 ## Sonntag, 13. August 2017
@@ -40,7 +41,7 @@ In blauer und roter Schrift ist zu lesen, was Kolumbien bewegt: Der Krieg ist vo
 Die AHK Kolumbien lädt heute in Kooperation mit der Schweizer Kammer in Kolumbien zu meinem Vortrag «Lucha empresarial contra la corrupción» ein. Vielen Dank an Yolanda Rodríguez und ihr Team!
 
 
-Carlos Lozano von Coresponsables hebt hervor, dass kein Superheld, wie Batman oder Superman, kommen werde, um Kolumbien zu retten. Vielmehr seien die Kolumbianer selbst gefordert, die sozialen und ökologischen Herausforderungen des Landes anzugehen.
+Carlos Lozano von Corresponsables hebt hervor, dass kein Superheld, wie Batman oder Superman, kommen werde, um Kolumbien zu retten. Vielmehr seien die Kolumbianer selbst gefordert, die sozialen und ökologischen Herausforderungen des Landes anzugehen.
 </div>
 
 <div class="content" markdown="1">

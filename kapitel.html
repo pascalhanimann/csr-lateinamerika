@@ -7,11 +7,11 @@ order: 10
 lang: de
 ref: kapitel
 ---
-{% assign mexiko = site.mexiko | sort: "order" %}
-{% assign kolumbien = site.kolumbien | sort: "order" %}
-{% assign peru = site.peru | sort: "order" %}
-{% assign brasilien = site.brasilien | sort: "order" %}
-{% assign argentinien = site.argentinien | sort: "order" %}
+{% assign mexiko = site.mexiko | where: 'lang', page.lang| sort: "order" %}
+{% assign kolumbien = site.kolumbien | where: 'lang', page.lang| sort: "order" %}
+{% assign peru = site.peru | where: 'lang', page.lang| sort: "order" %}
+{% assign brasilien = site.brasilien | where: 'lang', page.lang| sort: "order" %}
+{% assign argentinien = site.argentinien ^| where: 'lang', page.lang| sort: "order" %}
 
 
 

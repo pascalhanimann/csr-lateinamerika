@@ -19,6 +19,7 @@ gallery:
       alttext: MX 1
     - filename: BILD_ARGENTINIEN-20.jpg
       alttext: MX 1
+lang: de
 ---
 <!-- Text mit Sidestory rechts -->
 <div class="has-sidestories-right grid" markdown="1">

@@ -8,7 +8,7 @@ header-img: 20170717_142211.jpg
 lang: de
 ref: empfehlungen
 ---
-{% assign empfehlungen = site.empfehlungen | sort: "order" %}
+{% assign empfehlungen = site.empfehlungen | where: 'lang', page.lang | sort: "order" %}
 {% for ch in empfehlungen %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}

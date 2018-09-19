@@ -23,6 +23,7 @@ gallery:
       alttext: AT 1
     - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_9.jpg
       alttext: AT 1
+lang: de
 ---
 <div class="content" markdown="1">
 ## Samstag, 7. Oktober 2017
