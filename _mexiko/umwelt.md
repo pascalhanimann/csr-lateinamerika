@@ -5,7 +5,7 @@ subject_ref: umwelt
 title: «Langfristig betrachtet wird das Günstige teuer»
 #date:
 order: 3
-chapter_image: BILD_MEXIKO-9.jpg
+chapter_image: mexiko_umwelt.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

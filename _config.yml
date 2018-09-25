@@ -2,7 +2,7 @@ name: Verantwortungsvolle Unternehmensführung in Lateinamerika
 author: Christian Hauser
 favicon: #favicon image path (svg)
 url: https://lehrehtw.github.io
-baseurl: /csr-lateinamerika
+baseurl: /csr-lateinamerika/
 encoding: utf-8
 plugins:
     - jekyll-autoprefixer
@@ -42,7 +42,7 @@ collections:
         output: false
 t:
     de:
-        contents: Inhaltsverzeichnis
+        contents: Menü
         impressum: Impressum
         flaeche: Fläche
         einwohner: Einwohner

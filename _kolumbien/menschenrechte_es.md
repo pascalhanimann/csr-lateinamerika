@@ -4,7 +4,7 @@ subject: Derechos humanos
 subject_ref: menschenrechte
 title: «Colombia ha vivido una triste época»
 order: 2
-chapter_image: BILD_KOLUMBIEN-14.jpg
+chapter_image: kolumbien_menschenrechte.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

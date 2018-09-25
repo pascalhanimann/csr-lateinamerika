@@ -5,7 +5,7 @@ subject_ref: korruption
 title: «La corrupción es un cáncer en México»
 #date:
 order: 4
-chapter_image: BILD_MEXIKO-10.jpg
+chapter_image: mexiko_korruption.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

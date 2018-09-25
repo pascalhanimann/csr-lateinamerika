@@ -4,7 +4,7 @@ subject: Corrupción
 subject_ref: korruption
 title: «El sector informal es una tragedia para Colombia»
 order: 4
-chapter_image: BILD_KOLUMBIEN-6.jpg
+chapter_image: kolumbien_korruption.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

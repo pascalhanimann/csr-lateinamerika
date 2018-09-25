@@ -4,7 +4,7 @@ subject: Derechos humanos
 subject_ref: menschenrechte
 title: «El trabajo no falta, pero no hay puestos de trabajo»
 order: 2
-chapter_image: BILD_BRASILIEN-4.jpg
+chapter_image: brasilien_menschenrechte.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

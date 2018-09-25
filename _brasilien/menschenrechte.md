@@ -4,7 +4,7 @@ subject: Menschenrechte
 subject_ref: menschenrechte
 title: «Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine»
 order: 2
-chapter_image: BILD_BRASILIEN-4.jpg
+chapter_image: brasilien_menschenrechte.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

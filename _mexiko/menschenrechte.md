@@ -5,7 +5,7 @@ subject_ref: menschenrechte
 title: «Bei der unternehmerischen Verantwortung darf es kein Copyright geben»
 #date:
 order: 2
-chapter_image: BILD_MEXIKO-15.jpg
+chapter_image: mexiko_menschenrechte.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

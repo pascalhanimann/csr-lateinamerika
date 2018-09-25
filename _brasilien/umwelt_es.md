@@ -4,7 +4,7 @@ subject: Medio Ambiente
 subject_ref: umwelt
 title: «La sostenibilidad debe integrarse en el negocio principal»
 order: 3
-chapter_image: BILD_BRASILIEN-7.jpg
+chapter_image: brasilien_umwelt.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

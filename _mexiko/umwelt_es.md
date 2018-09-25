@@ -5,7 +5,7 @@ subject_ref: umwelt
 title: «A largo plazo, lo barato se vuelve costoso»
 #date:
 order: 3
-chapter_image: BILD_MEXIKO-9.jpg
+chapter_image: mexiko_umwelt.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

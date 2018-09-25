@@ -5,7 +5,7 @@ subject_ref: korruption
 title: «Korruption ist ein Krebsgeschwür in Mexiko»
 #date:
 order: 4
-chapter_image: BILD_MEXIKO-10.jpg
+chapter_image: mexiko_korruption.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

@@ -4,7 +4,7 @@ subject: Menschenrechte
 subject_ref: menschenrechte
 title: «In diesem Land erfährt man nie die ganze Wahrheit»
 order: 2
-chapter_image: BILD_ARGENTINIEN-16.jpg
+chapter_image: argentinien_menschenrechte.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

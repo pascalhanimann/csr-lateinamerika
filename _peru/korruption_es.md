@@ -5,7 +5,7 @@ subject_ref: korruption
 title: «La corrupción causa más daño que un desastre natural»
 #date:
 order: 4
-chapter_image: BILD_PERU-19.jpg
+chapter_image: peru_korruption.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

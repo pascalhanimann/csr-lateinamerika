@@ -4,7 +4,7 @@ subject: Korruption
 subject_ref: korruption
 title: «Das Gesetz gilt für alle»
 order: 4
-chapter_image: BILD_BRASILIEN-9.jpg
+chapter_image: brasilien_korruption.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

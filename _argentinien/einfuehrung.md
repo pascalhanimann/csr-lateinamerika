@@ -5,20 +5,20 @@ title: «Argentinien ist das Land des ‚eigentlich sollte man mal‘»
 order: 1
 gallery:
   - images:
-    - filename: BILD_ARGENTINIEN-1.jpg
-      alttext: MX 1
-    - filename: BILD_ARGENTINIEN-2.jpg
-      alttext: MX 1
-    - filename: BILD_ARGENTINIEN-7.jpg
-      alttext: MX 1
-    - filename: BILD_ARGENTINIEN-10.jpg
-      alttext: MX 1
-    - filename: BILD_ARGENTINIEN-11.jpg
-      alttext: MX 1
-    - filename: BILD_ARGENTINIEN-12.jpg
-      alttext: MX 1
-    - filename: BILD_ARGENTINIEN-20.jpg
-      alttext: MX 1
+    - filename: argentinien_1.jpeg
+      alttext: ARG 1
+    - filename: argentinien_2.jpeg
+      alttext: ARG 2
+    - filename: argentinien_3.jpeg
+      alttext: ARG 3
+    - filename: argentinien_4.jpeg
+      alttext: ARG 4
+    - filename: argentinien_5.jpeg
+      alttext: ARG 5
+    - filename: argentinien_6.jpeg
+      alttext: ARG 6
+    - filename: argentinien_7.jpeg
+      alttext: ARG 7
 lang: de
 ---
 <!-- Text mit Sidestory rechts -->

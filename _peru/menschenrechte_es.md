@@ -4,7 +4,7 @@ subject: Derechos humanos
 subject_ref: menschenrechte
 title: «En Perú no hay una discusión seria sobre derechos humanos»
 order: 2
-chapter_image: BILD_PERU-16.jpg
+chapter_image: peru_menschenrechte.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

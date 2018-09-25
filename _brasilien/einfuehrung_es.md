@@ -5,18 +5,18 @@ title:  «Brasil es un país maravilloso, que está dominado por una élite corr
 order: 1
 gallery:
   - images:
-    - filename: BILD_BRASILIEN-3.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-5.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-14.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-16.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-19.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-20.jpg
-      alttext: MX 1
+    - filename: brasilien_1.jpeg
+      alttext: BRA 1
+    - filename: brasilien_2.jpeg
+      alttext: BRA 2
+    - filename: brasilien_3.jpeg
+      alttext: BRA 3
+    - filename: brasilien_4.jpeg
+      alttext: BRA 4
+    - filename: brasilien_5.jpeg
+      alttext: BRA 5
+    - filename: brasilien_6.jpeg
+      alttext: BRA 6
 lang: es
 ---
 <!-- Text mit Sidestory rechts -->

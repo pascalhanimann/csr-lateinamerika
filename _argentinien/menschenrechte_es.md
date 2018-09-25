@@ -4,7 +4,7 @@ subject: Derechos humanos
 subject_ref: menschenrechte
 title: «En este país nunca se sabe toda la verdad»
 order: 2
-chapter_image: BILD_ARGENTINIEN-16.jpg
+chapter_image: argentinien_menschenrechte.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

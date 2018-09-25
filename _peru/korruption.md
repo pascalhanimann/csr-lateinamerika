@@ -5,7 +5,7 @@ subject_ref: korruption
 title: «Korruption verursacht mehr Schäden als eine Naturkatastrophe»
 #date:
 order: 4
-chapter_image: BILD_PERU-19.jpg
+chapter_image: peru_korruption.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

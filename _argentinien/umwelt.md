@@ -4,7 +4,7 @@ subject: Umwelt
 subject_ref: umwelt
 title: «Wenn die anderen so handeln, wieso ich nicht auch?»
 order: 3
-chapter_image: BILD_ARGENTINIEN-18.jpg
+chapter_image: argentinien_umwelt.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

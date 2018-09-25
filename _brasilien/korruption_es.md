@@ -4,7 +4,7 @@ subject: Corrupción
 subject_ref: korruption
 title: «La ley se aplica a todos»
 order: 4
-chapter_image: BILD_BRASILIEN-9.jpg
+chapter_image: brasilien_korruption.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

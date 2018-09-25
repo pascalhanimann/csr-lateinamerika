@@ -5,7 +5,7 @@ subject_ref: menschenrechte
 title: «No puede haber copyright en la responsabilidad empresarial»
 #date:
 order: 2
-chapter_image: BILD_MEXIKO-15.jpg
+chapter_image: mexiko_menschenrechte.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

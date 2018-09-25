@@ -5,16 +5,16 @@ title: «In Kolumbien herrscht immer noch großes Misstrauen»
 order: 1
 gallery:
   - images:
-    - filename: BILD_KOLUMBIEN-7.jpg
-      alttext: MX 1
-    - filename: BILD_KOLUMBIEN-1.jpg
-      alttext: MX 1
-    - filename: BILD_KOLUMBIEN-10.jpg
-      alttext: MX 1
-    - filename: BILD_KOLUMBIEN-16.jpg
-      alttext: MX 1
-    - filename: BILD_KOLUMBIEN-15.jpg
-      alttext: MX 1
+    - filename: kolumbien_1.jpeg
+      alttext: KOL 1
+    - filename: kolumbien_2.jpeg
+      alttext: KOL 2
+    - filename: kolumbien_3.jpeg
+      alttext: KOL 3
+    - filename: kolumbien_4.jpeg
+      alttext: KOL 4
+    - filename: kolumbien_5.jpeg
+      alttext: KOL 5
 lang: de
 ---
 

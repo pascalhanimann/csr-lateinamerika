@@ -4,7 +4,7 @@ subject: Umwelt
 subject_ref: umwelt
 title: «Nachhaltigkeit muss in das Kerngeschäft integriert werden»
 order: 3
-chapter_image: BILD_BRASILIEN-7.jpg
+chapter_image: brasilien_umwelt.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

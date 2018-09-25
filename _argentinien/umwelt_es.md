@@ -4,7 +4,7 @@ subject: Medio ambiente
 subject_ref: umwelt
 title: «Si los demás actúan de esa manera, ¿por qué yo no?»
 order: 3
-chapter_image: BILD_ARGENTINIEN-18.jpg
+chapter_image: argentinien_umwelt.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

@@ -4,7 +4,7 @@ subject: Menschenrechte
 subject_ref: menschenrechte
 title: «Kolumbien durchlebte ein trauriges Zeitalter»
 order: 2
-chapter_image: BILD_KOLUMBIEN-14.jpg
+chapter_image: kolumbien_menschenrechte.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

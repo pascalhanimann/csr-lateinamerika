@@ -4,7 +4,7 @@ subject: Menschenrechte
 subject_ref: menschenrechte
 title: «In Peru findet keine ernsthafte Diskussion über Menschenrechte statt»
 order: 2
-chapter_image: BILD_PERU-16.jpg
+chapter_image: peru_menschenrechte.jpeg
 lang: de
 ---
 <div class="content" markdown="1">

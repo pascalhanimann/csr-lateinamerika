@@ -4,7 +4,7 @@ subject: Corrupción
 subject_ref: korruption
 title: «It takes two to tango»
 order: 4
-chapter_image: BILD_ARGENTINIEN-5.jpg
+chapter_image: argentinien_korruption.jpeg
 lang: es
 ---
 <div class="content" markdown="1">

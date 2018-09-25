@@ -4,7 +4,7 @@ subject: Medio ambiente
 subject_ref: umwelt
 title: «Solos, somos solo una vela, juntos brillamos mucho más fuerte»
 order: 3
-chapter_image: BILD_PERU-12.jpg
+chapter_image: peru_umwelt.jpeg
 lang: es
 ---
 <div class="content" markdown="1">
