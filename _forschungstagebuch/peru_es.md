@@ -20,7 +20,7 @@ Primer día en Lima: barrio Miraflores – el Polanco del Perú. Nuestro apartam
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Benavides_Eduardo_ Abogado_Lima_20170726_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Benavides_Eduardo_ Abogado_Lima_20170726_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -32,7 +32,7 @@ El primer entrevistado, Eduardo Benavides, enfatiza que existirían dos Perú: L
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170728_165915.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170728_165915.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -44,11 +44,11 @@ Hoy es el primero de cuatro días de celebraciones de Fiestas Patrias, la fiesta
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170728_164402.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170728_164402.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170728_165043.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170728_165043.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -70,7 +70,7 @@ Los peruanos celebran las Fiestas Patrias con una gran parada militar. Este año
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170729_121443.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170729_121443.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -82,7 +82,7 @@ Sin embargo, lo realmente interesante no es el desfile en sí, sino las animadas
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170729_154159.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170729_154159.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -118,7 +118,7 @@ Los domingos por la noche la gente se encuentra en la Plaza Kennedy de Miraflore
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Custer_Felipe_Empresario_Lima_20170731_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Custer_Felipe_Empresario_Lima_20170731_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -134,7 +134,7 @@ Sebastian Grundberger, jefe de la oficina de KAS en Perú, observa que la confia
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170801_Nationalfeiertag_Schweiz_Residenz_Botschafter.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170801_Nationalfeiertag_Schweiz_Residenz_Botschafter.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -168,11 +168,11 @@ Clásico de Lima: cuando se camina por las calles, los taxistas constantemente p
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170804_Vortrag_AHK_Lima_6.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170804_Vortrag_AHK_Lima_6.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170804_Vortrag_AHK_Lima_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170804_Vortrag_AHK_Lima_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -188,11 +188,11 @@ Hoy la Cámara Peruano-Alemana organiza un desayuno de trabajo sobre el tema: «
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_mit_Sandro_Sanchez.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_mit_Sandro_Sanchez.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -200,7 +200,7 @@ Hoy estamos invitados a impartir un seminario sobre RSE y Compliance en la Escue
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -224,7 +224,7 @@ Hoy, por primera vez, un entrevistado no llega a la reunión acordada. El direct
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Perla_Javier_Libelula_Lima_20170807.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Perla_Javier_Libelula_Lima_20170807.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -238,7 +238,7 @@ Noche de cine: <a href="https://www.filmaffinity.com/es/film331834.html">«Gemel
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Conferencia_internacional_Lima_20170808.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Conferencia_internacional_Lima_20170808.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -258,7 +258,7 @@ El gobierno peruano ha declarado querer actuar con toda severidad contra la corr
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -266,7 +266,7 @@ Hoy imparto la charla «Lucha empresarial contra la corrupción: enfoques y expe
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -278,7 +278,7 @@ Christian Hauser después de su conferencia, entre otros con Corinne Schirmer, d
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Aguilar_Luis_Enrique_CHS_Alternativo_Lima_20170810_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Aguilar_Luis_Enrique_CHS_Alternativo_Lima_20170810_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -298,7 +298,7 @@ En la última noche en Lima vemos la comedia peruana <a href="https://www.filmaf
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Abflug_Lima_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Abflug_Lima_1.jpg">
 </div>
 
 <div class="media-wrapper">

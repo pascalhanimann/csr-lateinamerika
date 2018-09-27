@@ -1,5 +1,6 @@
 ---
 country: Argentinien
+countryname: Argentina
 subject: Medio ambiente
 subject_ref: umwelt
 title: «Si los demás actúan de esa manera, ¿por qué yo no?»

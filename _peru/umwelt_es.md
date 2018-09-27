@@ -1,5 +1,6 @@
 ---
 country: Peru
+countryname: Perú
 subject: Medio ambiente
 subject_ref: umwelt
 title: «Solos, somos solo una vela, juntos brillamos mucho más fuerte»

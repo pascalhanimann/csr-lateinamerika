@@ -22,7 +22,7 @@ En Colombia, la gente parece ir a trabajar muy temprano. Muchas reuniones se nos
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Graffiti_der_Krieg_ist_vorbei_es_kam_der_Frieden_Bogota.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Graffiti_der_Krieg_ist_vorbei_es_kam_der_Frieden_Bogota.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -34,7 +34,7 @@ En letras azules y rojas se lee lo que conmueve a Colombia: se acabo la guerra, 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170815_Vortrag_AHK_Bogota.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170815_Vortrag_AHK_Bogota.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -130,7 +130,7 @@ En comparación con las otras dos capitales, Ciudad de México y Lima, la infrae
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170823_144625.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170823_144625.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -142,7 +142,7 @@ El centro comercial Andino se encuentra donde antes se emplazaba el Colegio Alem
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170824_125404.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170824_125404.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -158,7 +158,7 @@ Lanzamiento oficial de la <a href="http://www.swissbettergold.ch/en/about">inici
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170825_Baeckerei_Brot.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170825_Baeckerei_Brot.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -172,7 +172,7 @@ Hoy vemos el documental <a href="http://www.imdb.com/title/tt5116402/">"Amazona"
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/20170826_120343.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/20170826_120343.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -180,7 +180,7 @@ El cerro Montserrate ofrece una impresionante vista panorámica sobre la mega ci
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170826_123004.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170826_123004.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -208,7 +208,7 @@ Hoy somos conducidos por primera vez por una conductora de Uber. Ella nos cuenta
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170818_171730.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170818_171730.jpg">
 </div>
 
 <div class="content" markdown="1">

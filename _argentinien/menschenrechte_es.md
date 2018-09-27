@@ -1,5 +1,6 @@
 ---
 country: Argentinien
+countryname: Argentina
 subject: Derechos humanos
 subject_ref: menschenrechte
 title: «En este país nunca se sabe toda la verdad»

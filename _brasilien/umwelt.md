@@ -1,5 +1,6 @@
 ---
 country: Brasilien
+countryname: Brasilien
 subject: Umwelt
 subject_ref: umwelt
 title: «Nachhaltigkeit muss in das Kerngeschäft integriert werden»

@@ -1,5 +1,6 @@
 ---
 country: Brasilien
+countryname: Brasilien
 subject: Korruption
 subject_ref: korruption
 title: «Das Gesetz gilt für alle»

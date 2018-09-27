@@ -1,5 +1,6 @@
 ---
 country: Mexiko
+countryname: México
 subject: Derechos humanos
 subject_ref: menschenrechte
 title: «No puede haber copyright en la responsabilidad empresarial»

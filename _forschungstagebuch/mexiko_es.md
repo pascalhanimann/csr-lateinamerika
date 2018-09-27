@@ -11,7 +11,7 @@ lang: es
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170704_120549.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170704_120549.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -23,7 +23,7 @@ El vuelo LH498 nos llevó de Fráncfort a la Ciudad de México con retraso, pero
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170703_151705.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170703_151705.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -35,7 +35,7 @@ La primera entrevista del viaje se lleva a cabo con Andreas Müller de la Cámar
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0358.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0358.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -43,7 +43,7 @@ Oliver Knoerich de la <a href="http://www.mexiko.diplo.de/Vertretung/mexiko/de/S
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170705_120309.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170705_120309.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -63,7 +63,7 @@ En barrios residenciales exclusivos como <a href="https://goo.gl/maps/jo1qWxpyTo
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170707_Martinez_Chavez_Augosto_Draeger.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170707_Martinez_Chavez_Augosto_Draeger.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -71,7 +71,7 @@ En opinión de Augusto Martínez, de <a href="https://www.draeger.com/es_mx/Home
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0414.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0414.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -83,7 +83,7 @@ Alberto Equihua, de la oficina del <a href="http://www.bdi-mexico.com/">BDI</a> 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170708_194022.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170708_194022.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -123,7 +123,7 @@ Stefan Jost, Director de la oficina  de KAS en México, informa que existe un al
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Aguirre_Jorge_Unternehmer_Mexico_20170710_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Aguirre_Jorge_Unternehmer_Mexico_20170710_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -143,7 +143,7 @@ El Smart-TV del alojamiento no recibe TV abierta y lineal. Sólo YouTube y Netfl
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170713_162851.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170713_162851.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -171,7 +171,7 @@ En el evento "Bonos de Impacto en México: oportunidades y retos" se discute sob
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170714_172219.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170714_172219.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -183,7 +183,7 @@ En el centro de Ciudad de México, el patrimonio azteca queda al descubierto. Cu
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170715_101928.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170715_101928.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -205,7 +205,7 @@ Separación de residuos a la mexicana.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170716_184431.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170716_184431.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -227,7 +227,7 @@ Al margen de un mercado callejero en el distrito de San Ángel, un sanador cham�
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170717_164520.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170717_164520.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -239,7 +239,7 @@ No a la venta: residentes luchan contra la gentrificación de su vecindario, que
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Mestre_Javier_Corresponsables_MexicoStadt_2017071_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Mestre_Javier_Corresponsables_MexicoStadt_2017071_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -247,7 +247,7 @@ Javier Mestre, de Corresponsables, enfatiza que "Lo que no se mide no puede mejo
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170718_182648.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170718_182648.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -260,7 +260,7 @@ El taco al pastor es un estilo de taco muy popular en México preparado con carn
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Cortes_Lorena_CEMEFI_MexicoStadt_20170719_3.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Cortes_Lorena_CEMEFI_MexicoStadt_20170719_3.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -287,7 +287,7 @@ Una recolectora de basura conduce por las calles llamando la atención con la ay
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Roche_Aussenansicht_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Roche_Aussenansicht_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -307,7 +307,7 @@ Velada de Netflix: en la comedia satírica <a href="http://www.imdb.com/title/tt
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Tenayuca_Pyramide_Mexiko_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Tenayuca_Pyramide_Mexiko_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -341,7 +341,7 @@ Esperamos una importante y urgente entrega con TNT. Esta se torna un fracaso. Tr
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170725_110956.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170725_110956.jpg">
 </div>
 
 <div class="content" markdown="1">

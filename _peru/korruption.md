@@ -1,5 +1,6 @@
 ---
 country: Peru
+countryname: Peru
 subject: Korruption
 subject_ref: korruption
 title: «Korruption verursacht mehr Schäden als eine Naturkatastrophe»

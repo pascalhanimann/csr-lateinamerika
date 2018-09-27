@@ -1,5 +1,6 @@
 ---
 country: Kolumbien
+countryname: Kolumbien
 subject: Korruption
 subject_ref: korruption
 title: «Der informelle Sektor ist eine Tragödie für Kolumbien»

@@ -1,5 +1,6 @@
 ---
 country: Kolumbien
+countryname: Colombia
 subject: Medio Ambiente
 subject_ref: umwelt
 title: «La protección del medio ambiente es uno de los mayores desafíos para Colombia»

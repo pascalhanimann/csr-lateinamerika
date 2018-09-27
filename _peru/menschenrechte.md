@@ -1,5 +1,6 @@
 ---
 country: Peru
+countryname: Peru
 subject: Menschenrechte
 subject_ref: menschenrechte
 title: «In Peru findet keine ernsthafte Diskussion über Menschenrechte statt»

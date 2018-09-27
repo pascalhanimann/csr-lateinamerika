@@ -1,5 +1,6 @@
 ---
 country: Brasilien
+countryname: Brasil
 subject: Derechos humanos
 subject_ref: menschenrechte
 title: «El trabajo no falta, pero no hay puestos de trabajo»

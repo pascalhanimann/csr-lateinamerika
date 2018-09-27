@@ -1,5 +1,6 @@
 ---
 country: Peru
+countryname: Perú
 subject: Corrupción
 subject_ref: korruption
 title: «La corrupción causa más daño que un desastre natural»

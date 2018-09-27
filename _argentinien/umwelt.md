@@ -1,5 +1,6 @@
 ---
 country: Argentinien
+countryname: Argentinien
 subject: Umwelt
 subject_ref: umwelt
 title: «Wenn die anderen so handeln, wieso ich nicht auch?»

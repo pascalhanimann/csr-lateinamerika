@@ -1,5 +1,6 @@
 ---
 country: Mexiko
+countryname: México
 subject: Corrupción
 subject_ref: korruption
 title: «La corrupción es un cáncer en México»

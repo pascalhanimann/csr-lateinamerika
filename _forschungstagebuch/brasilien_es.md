@@ -26,7 +26,7 @@ Visita a la <a href="https://www.allianceforintegrity.org/es/regiones/brasil/">O
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0513.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0513.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -38,11 +38,11 @@ Muchos paulistanos aprovechan los fines de semana para visitar el <a href="https
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0572.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0572.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0623.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0623.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -88,7 +88,7 @@ Cita de un conductor de Uber: «São Paulo no es una ciudad para vivir, sino una
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170916_175836.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170916_175836.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -122,7 +122,7 @@ Hoy, después de 11 días en São Paulo, continuamos hacia Curitiba. La capital 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/PRME_Konferenz_Brasilien_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/PRME_Konferenz_Brasilien_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -134,11 +134,11 @@ En el marco de la sexta reunión regional del <a href="http://www2.csf.itesm.mx/
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Metrobus_Curitiba_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Metrobus_Curitiba_1.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Metrobus_Curitiba_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Metrobus_Curitiba_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -160,7 +160,7 @@ Como parte de la mesa redonda «Leaders training for SDG 16 – Peace, justice a
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170917_092852.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170917_092852.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -200,7 +200,7 @@ Hoy vamos de Curitiba a Río de Janeiro en un avión Embraer 190. La empresa bra
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Latam_Zeitschrift_6_Orte_für_den_Honeymoon_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Latam_Zeitschrift_6_Orte_fuer_den_Honeymoon_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -208,7 +208,7 @@ En la revista de a bordo de LATAM, la aerolínea más grande de América Latina,
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170917_164608.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170917_164608.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -224,11 +224,11 @@ La crisis económica golpeó duramente a Río de Janeiro. Muchos intentan comple
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Blick_auf_Rio_3.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Blick_auf_Rio_3.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Favela_Rio_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Favela_Rio_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -248,7 +248,7 @@ En el último tiempo, cuando se veía helicópteros sobrevolando los lujosos bar
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Impressionen_Rio_6.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Impressionen_Rio_6.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -290,7 +290,7 @@ Luego se continúa a bordo de una máquina turbohélice ATR 72 desde el aeropuer
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170922_184010.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170922_184010.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -334,11 +334,11 @@ Una de las metas del proyecto del Padre Álido es reforestar las áreas taladas 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Impressionen_Indio_Ländereien_Brasilien_15.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Impressionen_Indio_Laaendereien_Brasilien_15.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Impressionen_Indio_Ländereien_Brasilien_16.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Impressionen_Indio_Laaendereien_Brasilien_16.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -382,7 +382,7 @@ En Brasil, muchos adultos usan aparatos dentales para enderezarse la dentadura u
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_1255.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_1255.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -428,7 +428,7 @@ La eco-granja <a href="http://www.quintadaestancia.com.br/">Quinta da Estância<
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Vortrag_Deutsch_Brasilianische_Industrie-undHandelskammer_Rio_Grande_do_Sul_20171005_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Vortrag_Deutsch_Brasilianische_Industrie-undHandelskammer_Rio_Grande_do_Sul_20171005_2.jpg">
 </div>
 
 <div class="content" markdown="1">

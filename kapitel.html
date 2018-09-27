@@ -78,9 +78,9 @@ ref: kapitel
     {% for c in mexiko %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: 'media/img/chapter/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: 'media/img/chapter/	' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -93,7 +93,7 @@ ref: kapitel
         <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}{{c.chapter_image | prepend: 'media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -106,7 +106,7 @@ ref: kapitel
         <div class="chapter mix {{ c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}{{c.chapter_image | prepend: 'media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -119,7 +119,7 @@ ref: kapitel
         <div class="chapter mix {{ c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}{{c.chapter_image | prepend: 'media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -132,7 +132,7 @@ ref: kapitel
         <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}{{c.chapter_image | prepend: 'media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>

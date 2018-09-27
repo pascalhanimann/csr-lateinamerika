@@ -46,7 +46,7 @@ Durante la primera noche en Buenos Aires nos espera una fiesta callejera de la c
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171008_151200.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171008_151200.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -54,7 +54,7 @@ Escena callejera Mercado dominical San Telmo.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -67,7 +67,7 @@ Cada domingo se lleva a cabo un mercado callejero en uno de los barrios más bel
 
 <div class="media-wrapper">
     <audio controls>
-        <source src="../media/audio/Strassengeräusche_Florida_Buenos_Aires_Cambio-Cambio_20171101_ba.mp3" type="audio/mpeg">
+        <source src="../media/audio/Strassengeraeusche_Florida_Buenos_Aires_Cambio-Cambio_20171101_ba.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </div>
@@ -111,7 +111,7 @@ Francisco von Wuthenau constata que en Argentina prevalecería la idea de que el
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Schlafstaette-Obdachloser_BA.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Schlafstaette-Obdachloser_BA.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -135,7 +135,7 @@ En la Avenida 9 de Julio, una de las principales arterias de Buenos Aires, el Me
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Politisches_Graffiti_Buenos_Aires_wir-haben-alle-mapucheblut-die-armen-in-den-venen-die-reichen-an-den-haenden.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Politisches_Graffiti_Buenos_Aires_wir-haben-alle-mapucheblut-die-armen-in-den-venen-die-reichen-an-den-haenden.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -143,7 +143,7 @@ En Buenos Aires, uno suele encontrarse una y otra vez con grafitis de motivació
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruecke_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruecke_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -155,7 +155,7 @@ En el camino de regreso desde el moderno distrito portuario de Puerto Madero hac
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171030_094140.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171030_094140.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -197,7 +197,7 @@ El <a href="http://www.grupomurchison.com.ar/">Grupo Murchison</a> opera su prop
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Donnerstag-Demo_Madres_der_Plaza_de_Mayo_vor_den_Wahlen_Oktober_2017_Buenos_Aires_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Donnerstag-Demo_Madres_der_Plaza_de_Mayo_vor_den_Wahlen_Oktober_2017_Buenos_Aires_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -208,11 +208,11 @@ Hoy, otros grupos políticos se están manifestando en la Plaza de Mayo. El domi
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Politische_Demo_wo_ist_Santiago_Maldonado_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Politische_Demo_wo_ist_Santiago_Maldonado_1.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Politisches_Graffiti_wo_ist_Santiago_Maldonado_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Politisches_Graffiti_wo_ist_Santiago_Maldonado_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -280,7 +280,7 @@ Si bien todos los interlocutores del sector privado han sido muy fiables, nuevam
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171014_192432.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171014_192432.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -302,7 +302,7 @@ La socióloga turca Zeynep Tufekci aborda este fenómeno en su <a href="https://
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171028_Hundekot_Gehweg_Buenos_Aires.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171028_Hundekot_Gehweg_Buenos_Aires.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -332,7 +332,7 @@ Hoy, el primer interlocutor del sector privado ha olvidado nuestra cita. Sin emb
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Fensterputzer_Buenos-Aires.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Fensterputzer_Buenos-Aires.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -340,7 +340,7 @@ Hoy, el primer interlocutor del sector privado ha olvidado nuestra cita. Sin emb
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_1737.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_1737.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -370,7 +370,7 @@ Esta mañana doy la última charla en el marco del viaje de investigación. La i
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171101_134036.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171101_134036.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -394,7 +394,7 @@ Realizo la última entrevista del viaje de investigación con Reynaldo Postacchi
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171103_121503.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171103_121503.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -402,7 +402,7 @@ Para finalizar la estadía en Argentina, no puede faltar un filete –blando com
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171103_174416.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171103_174416.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -414,7 +414,7 @@ Tras 28 días en Argentina, ha llegado la hora de despedirse. A las 18:05, hora 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171104_072612.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171104_072612.jpg">
 </div>
 
 <div class="content" markdown="1">

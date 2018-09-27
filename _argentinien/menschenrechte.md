@@ -1,5 +1,6 @@
 ---
 country: Argentinien
+countryname: Argentinien
 subject: Menschenrechte
 subject_ref: menschenrechte
 title: «In diesem Land erfährt man nie die ganze Wahrheit»

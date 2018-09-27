@@ -1,5 +1,6 @@
 ---
 country: Peru
+countryname: Peru
 subject: Umwelt
 subject_ref: umwelt
 title: «Alleine sind wir nur eine Kerze, zusammen leuchten wir viel stärker»

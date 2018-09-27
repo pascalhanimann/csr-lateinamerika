@@ -1,5 +1,6 @@
 ---
 country: Kolumbien
+countryname: Kolumbien
 subject: Menschenrechte
 subject_ref: menschenrechte
 title: «Kolumbien durchlebte ein trauriges Zeitalter»

@@ -1,5 +1,6 @@
 ---
 country: Mexiko
+countryname: Mexiko
 subject: Korruption
 subject_ref: korruption
 title: «Korruption ist ein Krebsgeschwür in Mexiko»

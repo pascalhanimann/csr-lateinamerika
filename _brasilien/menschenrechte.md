@@ -1,5 +1,6 @@
 ---
 country: Brasilien
+countryname: Brasilien
 subject: Menschenrechte
 subject_ref: menschenrechte
 title: «Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine»

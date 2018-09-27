@@ -1,5 +1,6 @@
 ---
 country: Argentinien
+countryname: Argentina
 subject: Corrupción
 subject_ref: korruption
 title: «It takes two to tango»

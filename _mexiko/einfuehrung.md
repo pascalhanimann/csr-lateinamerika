@@ -5,17 +5,17 @@ title: «Mexiko ist ein reiches Land mit viel Armut»
 order: 1
 gallery:
   - images:
-    - filename: mexiko_1.jpeg
+    - filename: gallery/mexiko_1.jpeg
       alttext: MX 1
-    - filename: mexiko_2.jpeg
+    - filename: gallery/mexiko_2.jpeg
       alttext: MX 2
-    - filename: mexiko_3.jpeg
+    - filename: gallery/mexiko_3.jpeg
       alttext: MX 3
-    - filename: mexiko_4.jpeg
+    - filename: gallery/mexiko_4.jpeg
       alttext: MX 4
-    - filename: mexiko_5.jpeg
+    - filename: gallery/mexiko_5.jpeg
       alttext: MX 5
-    - filename: mexiko_6.jpeg
+    - filename: gallery/mexiko_6.jpeg
       alttext: MX 6
 lang: de
 ---
