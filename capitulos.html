@@ -78,7 +78,7 @@ ref: kapitel
     {% for c in mexiko %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject_ref | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
@@ -91,7 +91,7 @@ ref: kapitel
     {% for c in kolumbien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject_ref | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
@@ -104,7 +104,7 @@ ref: kapitel
     {% for c in peru %}
         {% if c.chapter_image %}
         <div class="chapter mix {{ c.country | downcase }} {{ c.subject_ref | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
@@ -117,7 +117,7 @@ ref: kapitel
     {% for c in brasilien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{ c.country | downcase }} {{ c.subject_ref | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
@@ -130,7 +130,7 @@ ref: kapitel
     {% for c in argentinien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject_ref | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
